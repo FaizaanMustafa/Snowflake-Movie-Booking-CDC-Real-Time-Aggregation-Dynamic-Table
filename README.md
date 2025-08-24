@@ -1,0 +1,1 @@
+# Snowflake-Movie-Booking-CDC-Real-Time-Aggregation-Dynamic-Table
